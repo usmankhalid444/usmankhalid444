@@ -14,4 +14,4 @@ Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Get-in Touch
 
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/usmankhalid444)
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/usman444)
