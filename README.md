@@ -1,8 +1,14 @@
 # Usman Khalid
 
-As a Frontend Developer with 5 years of experience, I am passionate about creating engaging and intuitive user experiences through clean and efficient code. I specialize in Vue js, React Js, React Native, Next Js, Nuxt Js, Tailwind Css, and have a proven track record of delivering high-quality projects on time and within budget. With an eye for design and a focus on usability, I collaborate closely with cross-functional teams to translate user needs into responsive and scalable applications. Let's connect and discuss how I can help bring your digital vision to life.
+I’m a Software Engineer with 5+ years of experience building intuitive, scalable, and engaging digital solutions for web and mobile. My expertise spans Vue.js, Nuxt.js, React.js, Next.js, React Native, Laravel, and Tailwind CSS, enabling me to deliver everything from responsive websites to fully cross-platform mobile apps.
 
-Let's connect to explore how my expertise can help your ventures thrive.
+In addition to full-stack development, I specialize in AI-powered automation using n8n, helping businesses streamline workflows, connect systems, and unlock new efficiencies.
+
+I’ve contributed to projects ranging from cross-platform mobile applications to enterprise-grade platforms, always with a focus on clean, maintainable code and seamless user experiences. I thrive in collaborative environments where design, development, and product strategy come together to solve complex problems.
+
+Tech Stack & Tools: Vue.js, Nuxt.js, React.js, Next.js, React Native, Laravel, Tailwind CSS, n8n, REST APIs, MySQL, Git, Docker.
+
+Let’s connect if you’re looking for someone who can combine robust full-stack development with smart automation to create impactful, future-ready applications.
 
 ## Skills
 
