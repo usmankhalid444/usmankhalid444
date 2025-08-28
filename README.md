@@ -1,6 +1,6 @@
 # Usman Khalid
 
-I’m a Software Engineer with 5+ years of experience building intuitive, scalable, and engaging digital solutions for web and mobile. My expertise spans Vue.js, Nuxt.js, React.js, Next.js, React Native, Laravel, and Tailwind CSS, enabling me to deliver everything from responsive websites to fully cross-platform mobile apps.
+I’m a Software Engineer with 6+ years of experience building intuitive, scalable, and engaging digital solutions for web and mobile. My expertise spans Vue.js, Nuxt.js, React.js, Next.js, React Native, Laravel, and Tailwind CSS, enabling me to deliver everything from responsive websites to fully cross-platform mobile apps.
 
 In addition to full-stack development, I specialize in AI-powered automation using n8n, helping businesses streamline workflows, connect systems, and unlock new efficiencies.
 
